@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardBase64Converter", "ClipboardBase64Converter\ClipboardBase64Converter.csproj", "{0ADA0939-558D-45B3-855C-B00FFC701A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ADA0939-558D-45B3-855C-B00FFC701A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADA0939-558D-45B3-855C-B00FFC701A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADA0939-558D-45B3-855C-B00FFC701A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADA0939-558D-45B3-855C-B00FFC701A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB108A0-4697-4562-B2BA-B83E41DDE0D7}
+	EndGlobalSection
+EndGlobal
